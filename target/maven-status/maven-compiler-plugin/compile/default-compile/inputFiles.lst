@@ -1,0 +1,11 @@
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/imprimerie/Imprimerie.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/vue/MenuPrincipal.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/vue/FormCommande.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/model/Client.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/controller/ClientControleur.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/model/Employe.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/controller/CommandeControlleur.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/model/Commande.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/vue/FormClient.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/vue/FormEmploye.java
+/home/tertcoder/NetBeansProjects/imprimerie/src/main/java/controller/EmployeControleur.java
